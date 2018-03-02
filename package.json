@@ -1,0 +1,11 @@
+{
+  "name": "settlers-tracker-server",
+  "version": "0.0.1",
+  "description": "API Server for Settlers Tracker Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ross Salge & Pete Givens",
+  "license": "ISC"
+}
